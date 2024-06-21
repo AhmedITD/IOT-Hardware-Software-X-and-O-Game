@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "CNC_Software_grbl",
+			"path": "."
+		},
+		{
+			"name": "IOT-Management-System-For-The-CNC-Machine",
+			"path": "../../../Documents/GitHub/IOT-Management-System-For-The-CNC-Machine"
+		},
+		{
+			"name": "ESP32",
+			"path": "../ESP32"
+		},
+		{
+			"name": "ManagemetSystem",
+			"path": "../ManagemetSystem"
+		}
+	],
+	"settings": {}
+}
